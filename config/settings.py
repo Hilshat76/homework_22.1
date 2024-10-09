@@ -53,7 +53,7 @@ TEMPLATES = [
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'Catalog',
+        'NAME': 'catalog',
         'USER': 'postgres',
         'PASSWORD': 'ruslanelvira2015',
         'HOST': 'localhost',
